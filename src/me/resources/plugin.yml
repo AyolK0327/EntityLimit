@@ -1,0 +1,5 @@
+name: EntityLimit
+version: 1.0.0
+main: ayolk.EntityLimit.main
+authors: [ AyolK ]
+api-version: 1.18
